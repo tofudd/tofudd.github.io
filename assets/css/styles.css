@@ -1,0 +1,29 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 620px;
+    margin: auto;
+    font-family: sans-serif;
+    padding: 0 10px 10px 10px;
+}
+
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+    min-width: 200px;
+}
+
+table td, table th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+img {
+    width: 100%;
+}
+
+.cover img {
+    width: 200px;
+}

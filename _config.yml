@@ -1,0 +1,14 @@
+title: tofu homepage
+future: true
+collections_dir: articles
+
+plugins:
+  - jekyll-feed
+
+collections:
+   jvm-anime:
+      output: true   
+   jvm-movies:
+      output: true
+   projects:
+      output: true
