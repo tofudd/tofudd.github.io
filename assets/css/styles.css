@@ -6,7 +6,33 @@ body {
     max-width: 620px;
     margin: auto;
     font-family: sans-serif;
-    padding: 0 10px 10px 10px;
+    padding: 10px;
+}
+
+h1, nav a {
+    color: white;
+    background: black;
+    padding: 20px;
+    margin: 0;
+    font-style: italic;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+main ul {
+    padding-left: 15px;
 }
 
 table {
